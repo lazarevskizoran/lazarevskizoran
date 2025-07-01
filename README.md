@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazarevskizoran
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.JS
+- 👀 I’m interested in Ux Design and Web Development
+- 🌱 I’m currently practicing UX Design
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me https://www.linkedin.com/in/zoranlazarevski/
 
